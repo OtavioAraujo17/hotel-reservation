@@ -1,0 +1,7 @@
+C:\Users\Otavio\Desktop\curso 2\Hotel Reservation\Hotel Reservation\bin\Debug\Hotel Reservation.exe.config
+C:\Users\Otavio\Desktop\curso 2\Hotel Reservation\Hotel Reservation\bin\Debug\Hotel Reservation.exe
+C:\Users\Otavio\Desktop\curso 2\Hotel Reservation\Hotel Reservation\bin\Debug\Hotel Reservation.pdb
+C:\Users\Otavio\Desktop\curso 2\Hotel Reservation\Hotel Reservation\obj\Debug\Hotel Reservation.csprojAssemblyReference.cache
+C:\Users\Otavio\Desktop\curso 2\Hotel Reservation\Hotel Reservation\obj\Debug\Hotel Reservation.csproj.CoreCompileInputs.cache
+C:\Users\Otavio\Desktop\curso 2\Hotel Reservation\Hotel Reservation\obj\Debug\Hotel Reservation.exe
+C:\Users\Otavio\Desktop\curso 2\Hotel Reservation\Hotel Reservation\obj\Debug\Hotel Reservation.pdb
